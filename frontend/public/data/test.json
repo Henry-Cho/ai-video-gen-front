@@ -1,0 +1,141 @@
+{
+    "video_info": {
+      "title": "A Fresh Start (or) Breathe Easy, Hope is Here",
+      "target_audience": "People facing challenging situations - job interviews, first dates, public speaking, overcoming personal setbacks.",
+      "overall_tone": "Uplifting, encouraging, with a touch of gentle humor.",
+      "length": "Approximately 1 minute"
+    },
+    "narration_script": [
+      {
+        "scene": 1,
+        "start_time": "0",
+        "end_time": "4",
+        "narration": "We all have those moments... the ones that make us question, make us hesitate.",
+        "image_script": "A close-up of a person's face, looking uncertain and a bit lost in thought. Use muted, desaturated colors.",
+        "image": "https://picsum.photos/id/0/200/300"
+      },
+      {
+        "scene": 2,
+        "start_time": "4",
+        "end_time": "8",
+        "narration": "A new beginning  can feel daunting. But what if you had a secret weapon?",
+        "image_script": "A hand reaches out from off-screen towards a single, small sprout struggling to emerge from dry, cracked earth. Light is focused on the hand and sprout.",
+        "image": "https://picsum.photos/id/1/200/300"
+      },
+      {
+        "scene": 3,
+        "start_time": "8",
+        "end_time": "12",
+        "narration": "A tiny boost of confidence to help you face the unknown? Introducing SmartMouth Single Packs.",
+        "image_script": "Close-up of a SmartMouth Single Pack against a backdrop of shimmering, blue liquid. The liquid should have a magical, almost ethereal quality.",
+        "image": "https://picsum.photos/id/2/200/300"
+      },
+      {
+        "scene": 4,
+        "start_time": "12",
+        "end_time": "16",
+        "narration": "More than just fresh breath, it's a breath of fresh perspective.  A chance to rewrite your story.",
+        "image_script": "Timelapse effect. The sprout rapidly grows into a healthy plant, leaves unfurling towards the sun. Colors become more vibrant and saturated.",
+        "image": "https://picsum.photos/id/3/200/300"
+      },
+      {
+        "scene": 5,
+        "start_time": "16",
+        "end_time": "20",
+        "narration": "The job interview? You've got this.  Walk in with confidence, ready to impress.",
+        "image_script": "A person smiling confidently, shaking hands across a desk in an office setting. The background is bright and modern.",
+        "image": "https://picsum.photos/id/4/200/300"
+      },
+      {
+        "scene": 6,
+        "start_time": "20",
+        "end_time": "24",
+        "narration": "That first date? Relax, be yourself. Let your true personality shine through.",
+        "image_script": "Two people laughing together at a café, enjoying each other's company. The atmosphere is warm and inviting.",
+        "image": "https://picsum.photos/id/5/200/300"
+      },
+      {
+        "scene": 7,
+        "start_time": "24",
+        "end_time": "28",
+        "narration": "Speaking your truth? Let your voice be heard. Share your ideas with the world.",
+        "image_script": "Someone confidently addressing a small crowd, captivating their attention. The setting is bright and airy, emphasizing openness.",
+        "image": "https://picsum.photos/id/6/200/300"
+      },
+      {
+        "scene": 8,
+        "start_time": "28",
+        "end_time": "32",
+        "narration": "Don't let anything hold you back.  Not even for a second.",
+        "image_script": "A close-up of a person smiling brightly, full of confidence and optimism. The background is a blur of warm, uplifting colors.",
+        "image": "https://picsum.photos/id/7/200/300"
+      },
+      {
+        "scene": 9,
+        "start_time": "32",
+        "end_time": "36",
+        "narration": "SmartMouth is there for you, every step of the way.",
+        "image_script": "A hand reaches into a bag or purse and pulls out a SmartMouth Single Pack. The focus is on the product and the ease of use.",
+        "image": "https://picsum.photos/id/8/200/300"
+      },
+      {
+        "scene": 10,
+        "start_time": "36",
+        "end_time": "40",
+        "narration": "Small enough to fit in your pocket, yet powerful enough to make a difference.",
+        "image_script": "A SmartMouth Single Pack is shown discreetly tucked into a pocket, ready to go wherever life takes you.",
+        "image": "https://picsum.photos/id/9/200/300"
+      },
+      {
+        "scene": 11,
+        "start_time": "40",
+        "end_time": "44",
+        "narration": "Fresh breath is just the beginning. It's about feeling empowered, ready to take on the world.",
+        "image_script": "A montage of quick cuts showing diverse people in various situations: acing a presentation, enjoying a concert, laughing with friends.",
+        "image": "https://picsum.photos/id/10/200/300"
+      },
+      {
+        "scene": 12,
+        "start_time": "44",
+        "end_time": "48",
+        "narration": "SmartMouth. Because when you feel fresh and confident, anything is possible.",
+        "image_script": "A close-up of a SmartMouth Single Pack. The background is a soft, hopeful sunrise gradient, symbolizing new beginnings.",
+        "image": "https://picsum.photos/id/11/200/300"
+      },
+      {
+        "scene": 13,
+        "start_time": "48",
+        "end_time": "52",
+        "narration": "Take a deep breath. Embrace the possibilities. Your fresh start awaits.",
+        "image_script": "The SmartMouth logo on a clean, minimalist background with a subtle, inspiring quote like 'Breathe. Believe. Achieve.'",
+        "image": "https://picsum.photos/id/12/200/300"
+      },
+      {
+        "scene": 14,
+        "start_time": "52",
+        "end_time": "56",
+        "narration": "SmartMouth: Your partner in confidence, one fresh breath at a time.",
+        "image_script": "A final shot of the SmartMouth Single Pack box, positioned slightly off-center on a clean background with soft lighting.",
+        "image": "https://picsum.photos/id/13/200/300"
+      },
+      {
+        "scene": 15,
+        "start_time": "56",
+        "end_time": "60",
+        "narration": "Find your fresh start. Find your confidence. Find SmartMouth.",
+        "image_script": "Fade to a clean background with the SmartMouth logo and website address prominently displayed.",
+        "image": "https://picsum.photos/id/14/200/300"
+      }
+    ],
+    "image_tone_for_photoroom_api": {
+      "scenes_1-4": "Start with desaturated, slightly muted tones to reflect the initial doubt and uncertainty. Gradually increase saturation and warmth as the sprout grows and hope emerges.",
+      "scenes_5-11": "Use bright, optimistic colors. Think natural light, soft focus, and a hopeful, airy feel. Emphasize genuine emotion and connection.",
+      "scenes_12-15": "Clean, modern, and minimalist. Focus on the product packaging and logo. Use soft gradients and subtle textures for visual interest."
+    },
+    "background_music_selection": {
+      "genre": "Uplifting acoustic/indie pop with a hopeful, whimsical feel.",
+      "tempo": "Start slow and gradually increase the tempo as the video progresses, building to an inspiring crescendo.",
+      "instrumentation": "Acoustic guitar, piano, light percussion, possibly some strings for emotional impact. Consider adding subtle vocal harmonies for a sense of warmth and connection.",
+      "examples": "Music similar to 'Riptide' by Vance Joy, 'Little Talks' by Of Monsters and Men, 'Come Away With Me' by Norah Jones (instrumental version), or 'Brand New Day' by Van Morrison."
+    }
+  }
